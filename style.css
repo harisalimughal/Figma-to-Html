@@ -1,0 +1,75 @@
+body{
+    background-color:#589ED9;
+}
+
+#container{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+#header{
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+#header h1{
+    margin: 10px;
+}
+#loginform{
+    text-align: center;
+}
+
+#fname{
+    width: 15pc;
+    height: 2pc;
+    padding: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius:8px;
+   border:none;   
+}
+
+#lname {
+    width: 15pc;
+    height: 2pc;
+    padding: 10px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius:8px;
+    border:none;
+    border-top:1px solid #ccc
+}
+.logo{
+    font-size: 65px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+#button{
+    width: 16pc;
+    height: 3pc;
+    padding-top: 10px;
+    padding-bottom:10px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    background-color: #0380fc;
+    color:white;
+}
+.footer{
+    color:white;
+    text-align: center;
+    font-size: small;
+}
+
+input {
+    font-family: 'open sans', 'sans-serif';
+}
+ #button:hover{
+background: #0B6AB4;
+cursor:pointer;
+ }
+
+
